@@ -1,0 +1,32 @@
+University Bus Tracker - Image Replacement Guide
+==============================================
+
+✅ IMAGES SUCCESSFULLY UPDATED WITH BASE NAMES! ✅
+
+Your local project images are now using base filenames in presentation.html:
+
+1. LOGIN PAGE: 
+   ✅ Using: login.jpg
+
+2. STUDENT DASHBOARD (User Views):
+   ✅ Student Dashboard: Screenshot 2025-08-05 110929.png
+   ✅ Live Bus Tracking: Screenshot 2025-08-05 111011.png  
+   ✅ Interactive Map: Screenshot 2025-08-05 111029.png
+
+3. ADMIN VIEWS (Admin Panels):
+   ✅ Admin Panel: Screenshot 2025-08-05 111127.png
+   ✅ Add Bus Form: Screenshot 2025-08-05 111256.png
+
+ADDITIONAL AVAILABLE IMAGES:
+- Screenshot 2025-08-05 111104.png
+- Screenshot 2025-08-05 111321.png  
+- signup.jpg
+
+STATUS: All images now use base filenames (no folder path prefix)
+
+INSTRUCTIONS FOR USE:
+1. Copy your images from "ppt image" folder to the main project directory
+2. Or update the image paths in HTML to include the folder path if needed
+3. The presentation will automatically load images from the same directory as the HTML file
+
+The presentation is ready to use with your actual University Bus Tracker screenshots!

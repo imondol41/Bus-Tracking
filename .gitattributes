@@ -1,0 +1,24 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Flutter specific
+*.dart text
+*.yaml text
+*.yml text
+*.json text
+*.md text
+*.txt text
+
+# Ensure .metadata uses LF
+.metadata text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.jar binary
+*.zip binary
+*.aar binary
+*.so binary
